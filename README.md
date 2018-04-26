@@ -8,6 +8,8 @@ Dozent: Prof. Dr. Jürgen Sieck
 
 Übung: Prof. Dr.-Ing. V. Brovkov
 
+
+
 Abgabe 1
 
 Thema: Lists
@@ -50,3 +52,39 @@ Implementieren Sie obige Datenstruktur und 4 der oben genannten Funktionalitäte
 
 Aufgabe: Komplexitätsanalyse der Sortierverfahren
 Analysieren Sie die Komplexität der von Ihnen implementierten Sortierverfahren allgemein und im speziellen Fall Ihrer Implementierung.
+
+
+Abgabe 2
+
+Thema: Stacks
+
+Aufgabenbeschreibung
+
+Aufgabe: Implementierung Stack
+Implementieren Sie einen Stack und ein ausführbares Programm um diesen Stack, bei dem man folgende Funktionen interaktiv in der Kommandozeile ausführen kann (Beispielsweise über ein Menü mit Zahleneingabe)
+
+1.1 Implementieren Sie die für einen Stack üblichen Funktionen push und pop
+
+1.2 2Implementieren Sie Funktionalität, um ihrem Stack ein Element hinzuzufügen und zu löschen.
+
+1.3 Implementieren Sie Funktionen zur Ausgabe der Elemente im Stack.
+
+1.4 Implementieren Sie Funktionalität zur Ausgabe der Anzahl von Elementen im Stack.
+
+Hinweis: Zum Lösen der Aufgabe verwenden Sie bitte die Standarddatentypen und –definition von JAVA. Stack, Queue aus der java.util dürfen nicht verwendet werden.
+
+
+Abgabe 3
+
+Thema: RadixSort
+
+Aufgabenbeschreibung
+
+Aufgabe Erstellen Sie eine Vorgehensweise für die Speicherung einer Zahl (4-stellige Dezimalzahl mit Vorzeichen) in einer Form, die für Radix Sort (siehe Folien 14, 15) geeignet ist.
+Aufgabe Erstellen Sie eine Vorgehensweise für die Speicherung einer Gruppe von Zahlen entsprechend 1)
+Aufgabe Implementieren Sie einen Algorithmus für Radix-Sortierung einer Gruppe entsprechend 2)
+Aufgabe Erstellen Sie eine Konsolenanwendung, die 30 Zahlen entsprechend 1) quasi-zufällig generiert, in einer Datenstruktur entsprechend 2) speichert und diese Daten entsprechend 3) sortiert. Originaldaten, Zwischenzustände und Ergebnis müssen auf der Konsole visualisiert werden.
+Aufgabe
+Beschreiben Sie und begründen Sie Ihre Lösung.
+
+Hinweis: Zum Lösen der Aufgabe verwenden Sie bitte die Standarddatentypen und –definition von JAVA. Stack, Queue aus der java.util dürfen nicht verwendet werden.
