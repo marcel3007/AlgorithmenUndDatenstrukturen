@@ -1,20 +1,22 @@
-Studiengang: Angewandte informatik
+# Algorithmen und Datenstrukturen
 
-Fachbereich: 4
+**Hochschule:** HTW Berlin
 
-Modul: Algorithmen und Datenstrukturen
+**Studiengang:** Angewandte informatik
 
-Dozent: Prof. Dr. Jürgen Sieck
+**Fachbereich:** 4
 
-Übung: Prof. Dr.-Ing. V. Brovkov
+**Dozent:** Prof. Dr. Jürgen Sieck
+
+**Übung:** Prof. Dr.-Ing. V. Brovkov
 
 
 
-# Abgabe 1
+## Abgabe 1
 
-Thema: Lists
+**Thema:** Lists
 
-Aufgabenbeschreibung
+**Aufgabenbeschreibung
 
 Aufgabe: Erarbeitung einer einfach verketteten Liste
 Erarbeiten Sie sich die notwendige Datenstruktur einer einfach verkettteten Liste.
@@ -54,11 +56,11 @@ Aufgabe: Komplexitätsanalyse der Sortierverfahren
 Analysieren Sie die Komplexität der von Ihnen implementierten Sortierverfahren allgemein und im speziellen Fall Ihrer Implementierung.
 
 
-Abgabe 2
+## Abgabe 2
 
-Thema: Stacks
+**Thema:** Stack
 
-Aufgabenbeschreibung
+**Aufgabenbeschreibung
 
 Aufgabe: Implementierung Stack
 Implementieren Sie einen Stack und ein ausführbares Programm um diesen Stack, bei dem man folgende Funktionen interaktiv in der Kommandozeile ausführen kann (Beispielsweise über ein Menü mit Zahleneingabe)
@@ -74,11 +76,11 @@ Implementieren Sie einen Stack und ein ausführbares Programm um diesen Stack, b
 Hinweis: Zum Lösen der Aufgabe verwenden Sie bitte die Standarddatentypen und –definition von JAVA. Stack, Queue aus der java.util dürfen nicht verwendet werden.
 
 
-Abgabe 3
+## Abgabe 3
 
-Thema: RadixSort
+**Thema:** RadixSort
 
-Aufgabenbeschreibung
+**Aufgabenbeschreibung
 
 Aufgabe Erstellen Sie eine Vorgehensweise für die Speicherung einer Zahl (4-stellige Dezimalzahl mit Vorzeichen) in einer Form, die für Radix Sort (siehe Folien 14, 15) geeignet ist.
 Aufgabe Erstellen Sie eine Vorgehensweise für die Speicherung einer Gruppe von Zahlen entsprechend 1)
