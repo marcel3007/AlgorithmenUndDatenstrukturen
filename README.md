@@ -97,9 +97,9 @@ Implementieren Sie einen Stack und ein ausführbares Programm um diesen Stack, b
 
 2. Implementieren Sie notwendige Funktionen zur Verwaltung einer Hashtabelle (offenes Hashing mit Double-Hash Sondieren) für Integer- Zahlen.
 
-⋅⋅1. insert()⋅⋅
-⋅⋅2. find()⋅⋅
-⋅⋅3. showAllElements()⋅⋅
+  2.1. insert()  
+  2.2. find()  
+  2.3. showAllElements()  
 
 3. Erstellen Sie eine Konsole-Anwendung, in der ein Array von 17 Elementen als eine chaining-Hashtabelle mit 14 zufälligen Integers
 gefüllt wird und danach Funktionen entsprechend 1) testet
