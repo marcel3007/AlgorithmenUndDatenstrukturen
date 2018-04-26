@@ -22,25 +22,25 @@ Zu speichern sind die Studenten mit Vor- und Nachnamen nebst Matrikelnummer und 
 
 Implementieren Sie die notwendigen Datentypen in Java unter verwendung von class, interface, enum und den entsprechenden gewählten Datentypen.
 
-2. Implementieren Sie eine Funktion zum Erstellen eines neuen Elements.
+2. Implementieren Sie eine Funktion zum Erstellen eines neuen Elements.  
 
-2.1 Implementieren Sie eine Funktion zum Hinzufügen eines Elements vor dem ersten Element.
+  2.1 Implementieren Sie eine Funktion zum Hinzufügen eines Elements vor dem ersten Element.  
 
-2.2 Implementieren Sie eine Funktion zum Hinzufügen eines Elements nach dem letzten Element.
+  2.2 Implementieren Sie eine Funktion zum Hinzufügen eines Elements nach dem letzten Element.  
 
-2.3 Implementieren Sie eine Funktion zur Ausgabe eines Elements der Liste.
+  2.3 Implementieren Sie eine Funktion zur Ausgabe eines Elements der Liste.  
 
-2.4 Implementieren Sie eine Funktion zu Ausgabe der gesammten Liste.
+  2.4 Implementieren Sie eine Funktion zu Ausgabe der gesammten Liste.  
 
-2.5 Implementieren Sie eine Funktion zur Ausgabe der Anzahl der Elemente.
+  2.5 Implementieren Sie eine Funktion zur Ausgabe der Anzahl der Elemente.  
 
-2.6 Implementieren Sie eine Funktion zum Löschen eines Elements.
+  2.6 Implementieren Sie eine Funktion zum Löschen eines Elements.  
 
-2.7 Implementieren Sie eine Funktion zum Löschen der gesamten Liste.
+  2.7 Implementieren Sie eine Funktion zum Löschen der gesamten Liste.  
 
-2.8 Implementieren Sie Funktionalität zum Suchen eines oder mehrerer Studenten nach Vor-und Nachname, Matrikelnummer und Studiengang.
+  2.8 Implementieren Sie Funktionalität zum Suchen eines oder mehrerer Studenten nach Vor-und Nachname, Matrikelnummer und Studiengang.  
 
-2.9 Implementieren Sie Funktionalität zum Sortieren der Datensätze der Studenten, Matrikelnummer und Studiengang nach zwei selbstgewählten Sortierverfahren.
+  2.9 Implementieren Sie Funktionalität zum Sortieren der Datensätze der Studenten, Matrikelnummer und Studiengang nach zwei selbstgewählten Sortierverfahren.  
 
 3. Vergleich Liste / Array
 
@@ -90,16 +90,17 @@ Implementieren Sie einen Stack und ein ausführbares Programm um diesen Stack, b
 **Aufgabenbeschreibung**
 
 1. Implementieren Sie notwendige Funktionen zur Verwaltung einer Hashtabelle (chaining) für Integer-Zahlen.
-1.1 insert()
-1.2 find()
-1.3 delete()
-1.4 showAllElements()
+
+  1.1 insert()  
+  1.2 find()  
+  1.3 delete()  
+  1.4 showAllElements()  
 
 2. Implementieren Sie notwendige Funktionen zur Verwaltung einer Hashtabelle (offenes Hashing mit Double-Hash Sondieren) für Integer- Zahlen.
 
-  2.1. insert()  
-  2.2. find()  
-  2.3. showAllElements()  
+  2.1 insert()  
+  2.2 find()  
+  2.3 showAllElements()  
 
 3. Erstellen Sie eine Konsole-Anwendung, in der ein Array von 17 Elementen als eine chaining-Hashtabelle mit 14 zufälligen Integers
 gefüllt wird und danach Funktionen entsprechend 1) testet
