@@ -14,7 +14,7 @@
 
 ## Aufgabe 1: Lists
 
-**Aufgabenbeschreibung
+**Aufgabenbeschreibung**
 
 Aufgabe: Erarbeitung einer einfach verketteten Liste
 Erarbeiten Sie sich die notwendige Datenstruktur einer einfach verkettteten Liste.
@@ -56,7 +56,7 @@ Analysieren Sie die Komplexität der von Ihnen implementierten Sortierverfahren 
 
 ## Aufagbe 2: Stack
 
-**Aufgabenbeschreibung
+**Aufgabenbeschreibung**
 
 Aufgabe: Implementierung Stack
 Implementieren Sie einen Stack und ein ausführbares Programm um diesen Stack, bei dem man folgende Funktionen interaktiv in der Kommandozeile ausführen kann (Beispielsweise über ein Menü mit Zahleneingabe)
@@ -74,7 +74,7 @@ Hinweis: Zum Lösen der Aufgabe verwenden Sie bitte die Standarddatentypen und �
 
 ## Abgabe 3: RadixSort
 
-**Aufgabenbeschreibung
+**Aufgabenbeschreibung**
 
 Aufgabe Erstellen Sie eine Vorgehensweise für die Speicherung einer Zahl (4-stellige Dezimalzahl mit Vorzeichen) in einer Form, die für Radix Sort (siehe Folien 14, 15) geeignet ist.
 Aufgabe Erstellen Sie eine Vorgehensweise für die Speicherung einer Gruppe von Zahlen entsprechend 1)
