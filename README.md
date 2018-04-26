@@ -12,9 +12,7 @@
 
 
 
-## Abgabe 1
-
-**Thema:** Lists
+## Aufgabe 1: Lists
 
 **Aufgabenbeschreibung
 
@@ -56,9 +54,7 @@ Aufgabe: Komplexitätsanalyse der Sortierverfahren
 Analysieren Sie die Komplexität der von Ihnen implementierten Sortierverfahren allgemein und im speziellen Fall Ihrer Implementierung.
 
 
-## Abgabe 2
-
-**Thema:** Stack
+## Aufagbe 2: Stack
 
 **Aufgabenbeschreibung
 
@@ -76,9 +72,7 @@ Implementieren Sie einen Stack und ein ausführbares Programm um diesen Stack, b
 Hinweis: Zum Lösen der Aufgabe verwenden Sie bitte die Standarddatentypen und –definition von JAVA. Stack, Queue aus der java.util dürfen nicht verwendet werden.
 
 
-## Abgabe 3
-
-**Thema:** RadixSort
+## Abgabe 3: RadixSort
 
 **Aufgabenbeschreibung
 
